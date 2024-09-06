@@ -1,0 +1,39 @@
+#btn{
+            
+    flex-wrap: wrap;
+      height: 30px;
+      width: 30px;
+      font-size:large;
+  }.container{
+     margin-left: 50%;
+     margin-top: 9px;
+
+  }#btn{
+      margin-top: 9px;
+      height: 36px;
+      width: 36px;
+      margin-left: 15px;
+      border-radius: 8px;
+  }.first{
+      margin-top: 10px;
+  }
+  body{
+      background-color: #9090cd;
+  }
+  .title{
+      color: rgb(12, 10, 10);
+      display: flex;
+      justify-content: center;
+     margin-left: 225px;
+      align-items: center;
+  }#input{
+      display: flex;
+      margin-left: 15px;
+      align-items:start;
+      justify-content: center;
+      padding-left: 34px;
+      font-size: larger;
+      font-weight: bold;
+      font-style: italic;
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
